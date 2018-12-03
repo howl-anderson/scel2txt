@@ -1,8 +1,4 @@
 # -*- encoding:utf-8 -*-
-"""
-@arthor: zhongxinwang
-@date: 2016-11-11
-"""
 
 import binascii 
 import struct
